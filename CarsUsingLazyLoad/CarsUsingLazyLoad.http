@@ -1,0 +1,6 @@
+@CarsUsingLazyLoad_HostAddress = http://localhost:5115
+
+GET {{CarsUsingLazyLoad_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
